@@ -30,6 +30,9 @@ public class GitSimple {
 	private void method9() {
 		System.out.println("7");
 
+	}private void newmode() {
+
+
 	}
 
 }
