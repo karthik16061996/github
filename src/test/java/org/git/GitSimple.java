@@ -30,8 +30,14 @@ public class GitSimple {
 	private void method9() {
 		System.out.println("7");
 
-	}private void newmode() {
+	}
 
+	private void newmode() {
+
+	}
+
+	private void method10() {
+		// TODO Auto-generated method stub
 
 	}
 
