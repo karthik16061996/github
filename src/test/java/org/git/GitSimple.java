@@ -32,4 +32,9 @@ public class GitSimple {
 
 	}
 
+	private void method10() {
+		// TODO Auto-generated method stub
+
+	}
+
 }
